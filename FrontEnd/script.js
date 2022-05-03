@@ -1,4 +1,4 @@
-const urlAPI = "http://localhost:3030";
+const urlAPI = "http://localhost:3030/";
 
 const newUser = {
     name: "Adalberto",
